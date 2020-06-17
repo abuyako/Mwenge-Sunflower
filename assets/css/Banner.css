@@ -1,12 +1,16 @@
 .Banner {
     text-align: center;
     margin-top: 50px;
+    padding: 100px;
+    background-image: url('/assets/images/1.png');
+    background-position: center;
+    background-size: cover;
 }
 .Banner-name h1{
-    width: 1200px;
+    width: 600px;
     margin: 0 auto;
     margin-top: 20px;
-    font-size: 50px;
+    font-size: 40px;
     font-family:AdventPro-Bold;
     color: rgb(14, 90, 14);
 }
