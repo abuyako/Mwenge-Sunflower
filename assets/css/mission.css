@@ -1,0 +1,22 @@
+.mission {
+    padding: 30px;
+    background-color: grey;
+    display: flex;
+}
+.mission-01 {
+    height: 200px;
+    width: 200px;
+    background-color: hotpink;
+    flex: 2;
+    border-radius: 50px 0px 50px 50px;
+    box-shadow: 0 3px 6px rgba(0,0,0,0.16), 0 3px 6px rgba(0,0,0,0.23);
+}
+.mission-02 {
+    height: 200px;
+    width: 200px;
+    margin-left: 20px;
+    background-color: indianred;
+    flex: 2;
+    border-radius: 50px 50px 50px 0px;
+    box-shadow: 0 3px 6px rgba(0,0,0,0.16), 0 3px 6px rgba(0,0,0,0.23);
+}
