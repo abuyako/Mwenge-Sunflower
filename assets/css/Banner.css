@@ -1,0 +1,11 @@
+.Banner {
+    text-align: center;
+}
+.Banner-name {
+    width: 1200px;
+    margin: 0 auto;
+    margin-top: 20px;
+    font-size: 70px;
+    font-family:AdventPro-Bold;
+    color: rgb(14, 90, 14);
+}
