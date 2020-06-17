@@ -1,16 +1,16 @@
 .Banner {
     text-align: center;
 }
-.Banner-name {
+.Banner-name h1{
     width: 1200px;
     margin: 0 auto;
     margin-top: 20px;
-    font-size: 70px;
+    font-size: 50px;
     font-family:AdventPro-Bold;
     color: rgb(14, 90, 14);
 }
 .Banner-button {
-    width: 200px;
+    width: 150px;
     padding: 10px;
     margin: 20px auto;
     background-color: rgb(206, 82, 0);
@@ -20,4 +20,10 @@
     color: white;
     font-family:AdventPro-Bold;
     font-size: 20px;
+}
+.Banner-name p {
+    font-size: 20px;
+    margin-top: 10px;
+    font-family:AdventPro-Regular;
+    color: green;
 }
