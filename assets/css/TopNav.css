@@ -1,6 +1,8 @@
 .TopNav {
     display: flex;
     color: rgb(14, 90, 14);
+    padding: 10px;
+    box-shadow: 0 4px 1px -4px gray;
 }
 .TopNav-contact {
     flex: 2;
@@ -13,7 +15,6 @@
     justify-content: center;
 }
 .TopNav-contact li {
-    margin-top: 10px;
     margin-left: 20px;
     font-family: AdventPro-SemiBold;
 }
@@ -22,6 +23,5 @@
     justify-content: center;
 }
 .TopNav-social li {
-    margin-top: 10px;
     margin-left: 20px;
 }
