@@ -1,0 +1,12 @@
+.MainNav {
+    display: flex;
+}
+.MainNav-logo {
+    flex: 2;
+}
+.MainNav-list {
+    flex: 2;
+}
+.MainNav-list ul {
+    display: flex;
+}
