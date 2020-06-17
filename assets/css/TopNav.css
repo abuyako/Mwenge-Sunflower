@@ -15,6 +15,7 @@
 .TopNav-contact li {
     margin-top: 10px;
     margin-left: 20px;
+    font-family: AdventPro-SemiBold;
 }
 .TopNav-social ul {
     display: flex;
