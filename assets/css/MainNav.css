@@ -26,3 +26,20 @@
     color: rgb(14, 90, 14);
     font-family: AdventPro-SemiBold;
 }
+
+.MainNav-list li:hover {
+    border-bottom: none;
+    color:white;
+  }
+  .MainNav-list li a {
+    color: rgb(14, 90, 14);
+    padding: 8px;
+    text-decoration: none;
+    font-family: Amaranth-Regular;
+    border-bottom: transparent solid 1px;
+    transition: ease-in 0.3s;
+  }
+  .MainNav-list li a:hover {
+    border-bottom: green solid 1px;
+    color: orangered;
+  }
