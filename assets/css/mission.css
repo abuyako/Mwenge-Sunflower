@@ -1,12 +1,10 @@
 .mission {
     padding: 30px;
-    background-color: grey;
     display: flex;
 }
 .mission-01 {
     height: 90px;
     width: 200px;
-    background-color: hotpink;
     flex: 2;
     padding: 30px;
     margin-left: 40px;
@@ -17,10 +15,31 @@
     height: 90px;
     width: 200px;
     margin-left: 20px;
-    background-color: indianred;
     flex: 2;
     padding: 30px;
     margin-left: 40px;
     border-radius: 50px 50px 50px 0px;
     box-shadow: 0 3px 6px rgba(0,0,0,0.16), 0 3px 6px rgba(0,0,0,0.23);
+}
+.mission-01 h2 {
+    font-size: 20px;
+    font-family:AdventPro-Bold;
+    color: rgb(14, 90, 14);
+}
+.mission-02 h2 {
+    font-size: 20px;
+    font-family:AdventPro-Bold;
+    color: rgb(14, 90, 14);
+}
+.mission-01 p {
+    font-size: 15px;
+    font-family:AdventPro-Regular;
+    color: rgb(14, 90, 14);
+    margin-top: 10px;
+}
+.mission-02 p {
+    font-size: 15px;
+    font-family:AdventPro-Regular;
+    color: rgb(14, 90, 14);
+    margin-top: 10px;
 }
