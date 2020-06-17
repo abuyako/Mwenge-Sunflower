@@ -14,3 +14,39 @@
     font-family:AbhayaLibre-Medium;
     src: url(../fonts/abhaya-libre/AbhayaLibre-Medium.ttf);
 }
+
+@font-face {
+    font-family:AdventPro-Thin;
+    src: url(../fonts/advent-pro/AdventPro-Thin.ttf);
+}
+@font-face {
+    font-family:AdventPro-SemiBold;
+    src: url(../fonts/advent-pro/AdventPro-SemiBold.ttf);
+}
+@font-face {
+    font-family:AdventPro-Regular;
+    src: url(../fonts/advent-pro/AdventPro-Regular.ttf);
+}
+@font-face {
+    font-family:AdventPro-Light;
+    src: url(../fonts/advent-pro/AdventPro-Light.ttf);
+}
+@font-face {
+    font-family:AdventPro-Bold;
+    src: url(../fonts/advent-pro/AdventPro-Bold.ttf);
+}
+
+@font-face {
+    font-family: Antic-didone;
+    src: url(../fonts/antic-didone/AnticDidone-Regular.ttf);
+}
+
+@font-face {
+    font-family: BubblegumSans-Regular;
+    src: url(../fonts/bubblegum-sans/BubblegumSans-Regular.ttf);
+}
+
+@font-face {
+    font-family: CantataOne-Regular;
+    src: url(../fonts/cantata-one/CantataOne-Regular.ttf);
+}
