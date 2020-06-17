@@ -10,7 +10,17 @@
 }
 .TopNav-contact ul {
     display: flex;
+    justify-content: center;
+}
+.TopNav-contact li {
+    margin-top: 10px;
+    margin-left: 20px;
 }
 .TopNav-social ul {
     display: flex;
+    justify-content: center;
+}
+.TopNav-social li {
+    margin-top: 10px;
+    margin-left: 20px;
 }
