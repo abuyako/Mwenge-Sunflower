@@ -5,8 +5,23 @@
     height: 500px;
     width: 1100px;
     margin: 0 auto;
-    background-color: rgb(226, 255, 219);
+    background-color: rgb(236, 255, 231);
     margin-top: 50px;
     border-radius: 50px 0px 50px;
     box-shadow: 0 3px 6px rgba(0,0,0,0.16), 0 3px 6px rgba(0,0,0,0.23);
+}
+.intro-text {
+    padding: 50px;
+}
+.intro-text h2 {
+    font-size: 30px;
+    font-family:AdventPro-Bold;
+    color: rgb(14, 90, 14);
+}
+.intro-text p {
+    width: 900px;
+    font-size: 15px;
+    font-family:AdventPro-Regular;
+    color: rgb(14, 90, 14);
+    margin-top: 10px;
 }
