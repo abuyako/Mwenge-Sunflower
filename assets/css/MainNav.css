@@ -1,12 +1,28 @@
 .MainNav {
     display: flex;
+    padding: 20px;
 }
 .MainNav-logo {
     flex: 2;
+    display: flex;
+    justify-content: center;
+}
+.MainNav-logo img {
+    height: 100px;
 }
 .MainNav-list {
     flex: 2;
+    margin-top: 40px;
 }
 .MainNav-list ul {
     display: flex;
+    justify-content: center;
+}
+.MainNav-list li {
+    margin-left: 20px;
+}
+.MainNav-list a {
+    text-decoration: none;
+    color: rgb(14, 90, 14);
+    font-family: AdventPro-SemiBold;
 }
