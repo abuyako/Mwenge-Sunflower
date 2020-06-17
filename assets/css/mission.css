@@ -4,10 +4,12 @@
     display: flex;
 }
 .mission-01 {
-    height: 200px;
+    height: 100px;
     width: 200px;
     background-color: hotpink;
     flex: 2;
+    padding: 30px;
+    margin-left: 40px;
     border-radius: 50px 0px 50px 50px;
     box-shadow: 0 3px 6px rgba(0,0,0,0.16), 0 3px 6px rgba(0,0,0,0.23);
 }
