@@ -9,7 +9,7 @@
     padding: 30px;
     margin-left: 40px;
     border-radius: 50px 0px 50px 50px;
-    box-shadow: 0 3px 6px rgba(0,0,0,0.16), 0 3px 6px rgba(0,0,0,0.23);
+    /* box-shadow: 0 3px 6px rgba(0,0,0,0.16), 0 3px 6px rgba(0,0,0,0.23); */
 }
 .mission-02 {
     height: 90px;
@@ -19,7 +19,7 @@
     padding: 30px;
     margin-left: 40px;
     border-radius: 50px 50px 50px 0px;
-    box-shadow: 0 3px 6px rgba(0,0,0,0.16), 0 3px 6px rgba(0,0,0,0.23);
+    /* box-shadow: 0 3px 6px rgba(0,0,0,0.16), 0 3px 6px rgba(0,0,0,0.23); */
 }
 .mission-01 h2 {
     font-size: 20px;
@@ -43,3 +43,15 @@
     color: rgb(14, 90, 14);
     margin-top: 10px;
 }
+
+.mission-01, .mission-02 {
+    box-shadow: 0 1px 3px rgba(0,0,0,0.12), 0 1px 2px rgba(0,0,0,0.24);
+    transition: all 0.3s cubic-bezier(.25,.8,.25,1);
+  }
+    
+.mission-01:hover {
+    box-shadow: 0 14px 28px rgba(0,0,0,0.25), 0 10px 10px rgba(0,0,0,0.22);
+  }
+.mission-02:hover {
+    box-shadow: 0 14px 28px rgba(0,0,0,0.25), 0 10px 10px rgba(0,0,0,0.22);
+  }
