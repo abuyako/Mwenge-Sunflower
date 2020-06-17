@@ -1,5 +1,6 @@
 .TopNav {
     display: flex;
+    color: rgb(14, 90, 14);
 }
 .TopNav-contact {
     flex: 2;
