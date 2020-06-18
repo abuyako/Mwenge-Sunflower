@@ -1,6 +1,9 @@
 .intro {
     height: 520px;
     background-color: rgb(203, 247, 203);
+    /* background-image: url('/assets/images/pc2.jpg');
+    background-size: cover;
+    background-position: left; */
     padding: 40px;
 }
 .intro-banner {
