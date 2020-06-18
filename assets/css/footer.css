@@ -1,6 +1,6 @@
 .footerWrapper {
     height: 500px;
-    /* background-color: green; */
+    background-color: green;
     position: relative;
     display: flex;
     justify-content: center;
@@ -34,7 +34,6 @@
     margin-top: 10px;
 }
 .footerContent {
-    background-color: yellow;
     width: 1500px;
     /* margin-top: 100px; */
     display: flex;
@@ -47,21 +46,21 @@
 .footerContent .content h3 {
     font-size: 25px;
     font-family:AdventPro-Bold;
-    color: rgb(14, 90, 14);
+    color: white;
 }
 .footerContent .content p {
     width: 440px;
     font-size: 18px;
     margin-top: 10px;
     font-family:AdventPro-Regular;
-    color: rgb(14, 90, 14);
+    color: white;
 }
 .footerContent .content ul {
     display: flex;
     font-size: 18px;
     margin-top: 10px;
     font-family:AdventPro-Regular;
-    color: rgb(14, 90, 14);
+    color: white;
 }
 .footerContent .content li {
     margin-left: 15px;
