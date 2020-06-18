@@ -42,6 +42,13 @@
 .footerContent .content{
     margin-top: 220px;
 }
+.footerContent .content h4 {
+    font-size: 35px;
+    width: 380px;
+    text-align: center;
+    font-family:AdventPro-Bold;
+    color: white;
+}
 
 .footerContent .content h3 {
     font-size: 25px;
