@@ -1,6 +1,9 @@
 .mission {
     padding: 50px;
+    height: 300px;
     display: flex;
+    background-color: rgb(203, 247, 203);
+
 }
 .mission-01 {
     height: 90px;
