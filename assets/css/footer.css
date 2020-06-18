@@ -64,4 +64,13 @@
 }
 .footerContent .content li {
     margin-left: 15px;
+    cursor: pointer;
+}
+.footerContent .contents ul {
+    display: flex;
+    flex-direction: column;
+}
+.footerContent .contents li {
+    margin-top: 10px;
+    cursor: pointer;
 }
