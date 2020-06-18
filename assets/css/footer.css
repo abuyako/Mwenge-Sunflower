@@ -1,0 +1,14 @@
+.footerWrapper {
+    height: 400px;
+    background-color: green;
+    position: relative;
+    display: flex;
+    justify-content: center;
+}
+.footerContact {
+    height: 300px;
+    background-color: indianred;
+    width: 1000px;
+    position: absolute;
+    margin-top: -150px;
+}
