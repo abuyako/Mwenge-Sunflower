@@ -51,6 +51,17 @@
 }
 .footerContent .content p {
     font-size: 18px;
+    margin-top: 10px;
     font-family:AdventPro-Regular;
     color: rgb(14, 90, 14);
+}
+.footerContent .content ul {
+    display: flex;
+    font-size: 18px;
+    margin-top: 10px;
+    font-family:AdventPro-Regular;
+    color: rgb(14, 90, 14);
+}
+.footerContent .content li {
+    margin-left: 15px;
 }
