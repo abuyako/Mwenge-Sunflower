@@ -43,3 +43,14 @@
 .footerContent .content{
     margin-top: 220px;
 }
+
+.footerContent .content h3 {
+    font-size: 25px;
+    font-family:AdventPro-Bold;
+    color: rgb(14, 90, 14);
+}
+.footerContent .content p {
+    font-size: 18px;
+    font-family:AdventPro-Regular;
+    color: rgb(14, 90, 14);
+}
