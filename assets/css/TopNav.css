@@ -25,3 +25,6 @@
 .TopNav-social li {
     margin-left: 20px;
 }
+.TopNav-social i:hover {
+    color: orangered;
+}
