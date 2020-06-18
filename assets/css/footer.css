@@ -50,6 +50,7 @@
     color: rgb(14, 90, 14);
 }
 .footerContent .content p {
+    width: 440px;
     font-size: 18px;
     margin-top: 10px;
     font-family:AdventPro-Regular;
