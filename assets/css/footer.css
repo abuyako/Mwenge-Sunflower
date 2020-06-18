@@ -1,6 +1,6 @@
 .footerWrapper {
     height: 500px;
-    background-color: green;
+    /* background-color: green; */
     position: relative;
     display: flex;
     justify-content: center;
