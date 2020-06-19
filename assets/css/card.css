@@ -8,7 +8,8 @@
 }
 .cards {
     max-width: 400px;
-    background-color: green;
+    background-color: rgb(203, 247, 203);
+
     margin: auto;
     text-align: center;
     box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2);
@@ -29,7 +30,7 @@ button {
     display: inline-block;
     padding: 8px;
     color: white;
-    background-color: #000;
+    background-color: green;
     text-align: center;
     cursor: pointer;
     width: 100%;
@@ -39,7 +40,7 @@ button {
   a {
     text-decoration: none;
     font-size: 22px;
-    color: black;
+    color: green;
   }
   
   button:hover, a:hover {
