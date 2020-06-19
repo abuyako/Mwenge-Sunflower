@@ -1,0 +1,9 @@
+.mainBody {
+    display: flex;
+}
+.mainBody-text {
+    flex: 2;
+}
+.mainBody-picture {
+    flex: 2;
+}
