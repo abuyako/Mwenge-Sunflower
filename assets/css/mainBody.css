@@ -8,3 +8,7 @@
 .mainBody-picture {
     flex: 2;
 }
+.mainBody-picture img {
+    margin-top: 100px;
+    margin-left: 150px;
+}
