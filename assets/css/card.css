@@ -20,8 +20,10 @@
     margin-top: 50px;
 }
 .title {
-    color: grey;
+    color: black;
     font-size: 18px;
+    font-family:AdventPro-Bold;
+
   }
   
 button {
