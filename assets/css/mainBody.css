@@ -1,5 +1,6 @@
 .mainBody {
     display: flex;
+    background-image: url('/assets/images/pc2.jpg');
 }
 .mainBody-text {
     flex: 2;
