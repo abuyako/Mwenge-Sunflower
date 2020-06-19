@@ -4,6 +4,7 @@
 .mainBody-text {
     flex: 2;
     padding: 100px;
+    margin-left: 100px;
 }
 .mainBody-text h1 {
     font-family:AdventPro-Bold;
