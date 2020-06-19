@@ -3,6 +3,7 @@
 }
 .mainBody-text {
     flex: 2;
+    padding: 50px;
 }
 .mainBody-picture {
     flex: 2;
