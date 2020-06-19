@@ -1,0 +1,9 @@
+.mainTitle {
+    padding: 120px;
+}
+.mainTitle h1 {
+    text-align: center;
+    font-family:AdventPro-Bold;
+    color: green;
+    font-size: 40px;
+}
