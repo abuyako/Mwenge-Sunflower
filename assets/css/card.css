@@ -1,5 +1,5 @@
 .card {
-    height: auto;
+    height: 1000px;
 }
 .card-director {
     display: flex;
@@ -10,4 +10,9 @@
     width: 350px;
     height: 450px;
     background-color: green;
+}
+.card-finance {
+    display: flex;
+    justify-content: space-around;
+    margin-top: 50px;
 }
