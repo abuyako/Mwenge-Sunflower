@@ -23,6 +23,7 @@
 }
 .MainNav-list a {
     text-decoration: none;
+    font-size: 18px;
     color: rgb(14, 90, 14);
     font-family: AdventPro-SemiBold;
 }
